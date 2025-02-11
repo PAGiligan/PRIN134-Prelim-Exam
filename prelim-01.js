@@ -11,3 +11,4 @@ function greetUser(name, age) {
 console.log(greetUser("Alice", 25));  // Expected: "Hello, Alice! You are 25 years old."
 console.log(greetUser("Bob", 30));    // Expected: "Hello, Bob! You are 30 years old."
 console.log(greetUser("", 18));       // Expected: "Hello, ! You are 18 years old."
+asd
